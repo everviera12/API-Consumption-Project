@@ -1,0 +1,15 @@
+.container__table {
+  margin: 25px;
+  left: 25px;
+  box-shadow: 10px 10px 10px rgb(132, 133, 130);
+}
+
+#table__head {
+  background-color: black;
+  color: red;
+  text-align: center;
+}
+
+.paginacion__div {
+  margin: 0 30px;
+}
